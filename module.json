@@ -2,6 +2,7 @@
     "id": "token-frames",
     "title": "Token Frames",
     "description": "Token Frames FoundryVTT",
+    "version": "#{VERSION}#",
     "authors": [
         {
             "name": "volfied",
@@ -16,16 +17,13 @@
             "discord": "blackntan#0069"
         }
     ],
-    "version": "1.6.4",
     "compatibility": {
-		"minimum": 10,
-		"verified": "12"
-	},
-    "library": false,
-    "manifest": "https://github.com/yorkshirelandscape/token_frames/releases/latest/download/module.json",
-    "url": "https://github.com/yorkshirelandscape/token_frames",
-    "download": "https://github.com/yorkshirelandscape/token_frames/releases/latest/download/TokenFrames.zip",
-    "readme": "https://raw.githubusercontent.com/yorkshirelandscape/token_frames/master/README.md",
-    "bugs": "https://github.com/yorkshirelandscape/token_frames/issues",
-	"changelog": "https://raw.githubusercontent.com/yorkshirelandscape/token_frames/master/CHANGELOG.md"
+        "minimum": 10,
+        "verified": "12"
+    },
+    "url": "#{URL}#",
+    "manifest": "#{MANIFEST}#",
+    "download": "#{DOWNLOAD}#",
+    "license": "LICENSE",
+    "readme": "README.md"
 }
